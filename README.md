@@ -1,3 +1,3 @@
 # todo-list
 hello world repo created
-Created Saturday mornign as a test
+Created Saturday morning as a test
